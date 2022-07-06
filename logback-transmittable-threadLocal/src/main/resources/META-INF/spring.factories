@@ -1,0 +1,4 @@
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  org.slf4j.MDCAdapterAutoConfiguration,\
+  org.slf4j.FeignAutoConfiguration

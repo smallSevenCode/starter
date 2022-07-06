@@ -1,0 +1,58 @@
+{
+  "properties": [
+    {
+      "name": "knife4j.home.className",
+      "type": "java.lang.String",
+      "description": "排除参数扫描的全限定类名称",
+      "defaultValue": ""
+    },
+    {
+      "name": "knife4j.home.title",
+      "type": "java.lang.String",
+      "description": "标题",
+      "defaultValue": "Swagger文档"
+    },
+    {
+      "name": "knife4j.home.groupName",
+      "type": "java.lang.String",
+      "description": "分组名称",
+      "defaultValue": "item"
+    },
+    {
+      "name": "knife4j.home.description",
+      "type": "java.lang.String",
+      "description": "描述",
+      "defaultValue": "前后端接口快速对接文档"
+    },
+    {
+      "name": "knife4j.home.author",
+      "type": "java.lang.String",
+      "description": "作者",
+      "defaultValue": "苦瓜不苦"
+    },
+    {
+      "name": "knife4j.home.url",
+      "type": "java.lang.String",
+      "description": "路径",
+      "defaultValue": ""
+    },
+    {
+      "name": "knife4j.home.email",
+      "type": "java.lang.String",
+      "description": "邮箱",
+      "defaultValue": "pen_zp@163.com"
+    },
+    {
+      "name": "knife4j.home.termsOfServiceUrl",
+      "type": "java.lang.String",
+      "description": "地址",
+      "defaultValue": "https:xxx.com"
+    },
+    {
+      "name": "knife4j.home.version",
+      "type": "java.lang.String",
+      "description": "版本",
+      "defaultValue": "1.0-SNAPSHOT"
+    }
+  ]
+}
